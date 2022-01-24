@@ -1,6 +1,6 @@
 {
     "state": "enabled",
-    "database_name": "tracker",
+    "database_name": "todo",
     "partition": {
         "key": "_partition",
         "type": "string",

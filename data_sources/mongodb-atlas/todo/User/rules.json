@@ -1,6 +1,6 @@
 {
     "collection": "User",
-    "database": "tracker",
+    "database": "todo",
     "roles": [
         {
             "name": "default",
